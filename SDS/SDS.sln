@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientSDS", "ClientSDS\ClientSDS.vcxproj", "{334C198C-E742-4A99-BEA5-4693D3B60879}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerSDS", "ServerSDS\ServerSDS.vcxproj", "{C9D39D23-5120-4D17-A473-B6ED5BA40C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334C198C-E742-4A99-BEA5-4693D3B60879}.Debug|Win32.ActiveCfg = Debug|Win32
+		{334C198C-E742-4A99-BEA5-4693D3B60879}.Debug|Win32.Build.0 = Debug|Win32
+		{334C198C-E742-4A99-BEA5-4693D3B60879}.Release|Win32.ActiveCfg = Release|Win32
+		{334C198C-E742-4A99-BEA5-4693D3B60879}.Release|Win32.Build.0 = Release|Win32
+		{C9D39D23-5120-4D17-A473-B6ED5BA40C20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9D39D23-5120-4D17-A473-B6ED5BA40C20}.Debug|Win32.Build.0 = Debug|Win32
+		{C9D39D23-5120-4D17-A473-B6ED5BA40C20}.Release|Win32.ActiveCfg = Release|Win32
+		{C9D39D23-5120-4D17-A473-B6ED5BA40C20}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
