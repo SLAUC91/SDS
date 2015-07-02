@@ -14,3 +14,7 @@ A Secure Distribution Framework between a Client and Server, that will directly 
 - Have not decided whether I want to add any authentication since it is rather trivial and there are multiple frameworks that allow you to access a database via SQL.
 - Encryption.
 - General Improvements.
+ 
+#To Use
+- To use change the Server.cpp -> ClientThread -> ReadBinaryB to the the desired DLL.
+- Keep in mind loading is done using the STDCALL calling convection.
