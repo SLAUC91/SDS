@@ -17,4 +17,5 @@ A Secure Distribution Framework between a Client and Server, that will directly 
  
 #To Use
 - To use change the Server.cpp -> ClientThread -> ReadBinaryB to the the desired DLL.
+- ClientSDS - Source.cpp to Target process.
 - Keep in mind loading is done using the STDCALL calling convection.
